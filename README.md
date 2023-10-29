@@ -1,3 +1,3 @@
 # WildCatClassification
 
-A simple code for classifying cats using pytorch.
+This is a simple code example for classifying wild cats using PyTorch with the ResNet-101 architecture. It serves as a demonstration of how transfer learning can be applied to classification tasks. In this project, transfer learning not only helps to achieve higher accuracy but also accelerates the results. Transfer learning is a technique that leverages pre-trained neural networks, such as ResNet-101, which have been trained on massive datasets for general tasks, and fine-tunes them for specific tasks like wild cat classification. This approach not only saves significant time and computational resources but also allows for better performance, especially when dealing with limited labeled data for the target task.
